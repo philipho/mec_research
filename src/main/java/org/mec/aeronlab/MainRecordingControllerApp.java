@@ -25,5 +25,6 @@ public class MainRecordingControllerApp
         }
 
         System.out.println("All recrodings started");
+        System.out.println("This is great!");
     }
 }
