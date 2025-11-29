@@ -28,5 +28,6 @@ public class MainRecordingControllerApp
         System.out.println("This is great!");
         System.out.println("This is awesome!");
         System.out.println("This is wonderful!");
+        System.out.println("This is wholesome!");
     }
 }
